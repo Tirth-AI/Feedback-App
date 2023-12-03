@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FeedbackDO</string>
+    <string-array name="service_list">
+        <item>Smartphones</item>
+        <item>Cosmetics</item>
+        <item>Garments</item>
+        <item>Grocery</item>
+    </string-array>
+</resources>
